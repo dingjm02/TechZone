@@ -30,9 +30,9 @@
   <tr>
     <div width="920">
       <h1 align="center">Executive Summary</h1>
-      <h3 align="center">Sales Revenue Analysis (2019–2022)</h3>
+      <h3 align="center">Q4 2020 Marked the Strongest Sales Performance Across 2019–2022</h3>
       <div align="center">
-        <img width="1000" alt="Sales revenue graph from 2019 to 2022" src="https://i.postimg.cc/02XTgyVg/Screenshot-2026-01-08-at-17-37-56.png" />
+        <img width="1000" alt="Sales revenue graph from 2019 to 2022" src="https://i.postimg.cc/BQxp6BFX/Screenshot-2026-01-09-at-12-39-34.png" />
       </div>
       <td width="460" valign="top">
         <ol>
@@ -169,7 +169,7 @@
      <h1 align="center">Product Performance</h1>
       <div align="center">
         <h3>Product Sales Surged in 2020 but were not Sustained at High Levels</h3>
-        <img width="700" alt="Product sales graph from 2019 to 2022" src="https://i.postimg.cc/wBYTS7sB/Screenshot-2026-01-08-at-21-30-35.png" />
+        <img width="700" alt="Product sales graph from 2019 to 2022" src="https://i.postimg.cc/kDrTHjtz/Screenshot-2026-01-09-at-12-50-51.png" />
       </div>
     <tr>
   </tr>
@@ -211,11 +211,11 @@
     <tr align="center">
       <td width="1000" valign="top">
       <h3>AOV Over Time (2019-2022)</h3>
-      <img width="450" src="https://i.postimg.cc/SNp4Swx2/Screenshot-2026-01-08-at-21-35-41.png">
+      <img width="800" src="https://i.postimg.cc/rybymSTX/Screenshot-2026-01-09-at-13-01-10.png">
     </td>
     <td width="1000">
       <h3>Product Sales Heat Map by Quarter</h3>
-      <img width="450" src="https://i.postimg.cc/7h3pJZZb/Screenshot-2026-01-08-at-21-36-38.png">
+      <img width="450" src="https://i.postimg.cc/ryd0QyFk/Screenshot-2026-01-09-at-13-02-44.png">
     </td>
   </tr>
 </table>
@@ -229,11 +229,11 @@
     <tr align="center">
       <td width="1000">
       <h3>Average Order Value by Loyalty Status</h3>
-      <img width="450" src="https://i.postimg.cc/d0qdbqfz/Screenshot-2026-01-08-at-23-45-28.png">
+      <img width="450" src="https://i.postimg.cc/J42pSzj5/Screenshot-2026-01-09-at-13-11-02.png">
     </td>
     <td width="1000">
       <h3>Number of Orders by Loyalty Status</h3>
-      <img width="450" src="https://i.postimg.cc/3NBWCp8k/Screenshot-2026-01-08-at-23-47-25.png">
+      <img width="450" src="https://i.postimg.cc/d0dN2ckT/Screenshot-2026-01-09-at-13-09-58.png">
     </td>
   </tr>
 </table>
@@ -259,7 +259,7 @@
     <td width="500">
        <div valign="top" align="center">
       <h3>Refund Rate per Product Type</h3>
-      <img alt="Refund heat map of products" src="https://i.postimg.cc/8Cxn2PWL/Screenshot-2026-01-09-at-12-09-47.png" />
+      <img alt="Refund heat map of products" src="https://i.postimg.cc/c1Dh8LkW/Screenshot-2026-01-09-at-13-11-57.png" />
     </div>
     </td>
     <td valign="top" width="500">
