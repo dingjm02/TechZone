@@ -39,8 +39,8 @@
           <li>
             <strong>Revenue Growth and Peak Performance:</strong>
             <ul>
-              <li>2020 was the best-performing year, with sales consistently growing each quarter as a result of the COVID-19 pandemic.</li>
-              <li>Q4 2020 saw the highest revenue ($1,252K in December 2020), making it the strongest period.</li>
+              <li>2020 was the strongest year, with sales consistently growing each quarter as a result of the COVID-19 pandemic.</li>
+              <li>Q4 2020 saw the highest revenue ($1,252K in December 2020), making it the best-performing period.</li>
               <li>January 2021 ($1,030K) also maintained strong sales, though a downward trend occurred afterward.</li>
             </ul>
           </li>
@@ -58,7 +58,7 @@
           <li>
             <strong>Quarterly Insights & Seasonal Trends</strong>
             <ul>
-              <li>Q3 and Q4 of each year typically show strong performance, likely due to seasonal shopping trends and marketing efforts.</li>
+              <li>Q3 and Q4 of each year typically show strong performance, likely due to seasonal shopping trends and marketing efforts (Black Friday, Cyber Monday, Christmas sales).</li>
               <li>Q1 2022 started well ($704K in January), but revenue quickly dropped, signaling an overall weak performance compared to previous years.</li>
             </ul>
           </li>
@@ -82,13 +82,13 @@
   <tr>
     <h1 align="center">Sales Trend</h1>
     <td width="1000">
-      <img width="300" src="https://i.postimg.cc/pXvhncLc/Screenshot-2026-01-08-at-21-18-15.png">
+      <img width="300" src="https://i.postimg.cc/jdRVRX3P/Screenshot-2026-01-09-at-15-19-11.png">
     </td>
     <td width="1000">
-      <img width="300" src="https://i.postimg.cc/05YrxG0m/Screenshot-2026-01-08-at-21-18-28.png">
+      <img width="300" src="https://i.postimg.cc/qRGLw8cH/Screenshot-2026-01-09-at-15-21-34.png">
     </td>
     <td width="1000">
-      <img width="300" src="https://i.postimg.cc/9XYXsmcv/Screenshot-2026-01-08-at-21-18-40.png">
+      <img width="300" src="https://i.postimg.cc/vZjSxLh7/Screenshot-2026-01-09-at-15-19-35.png">
     </td>
   </tr>
 </table>
@@ -101,7 +101,7 @@
       <ol>
         <li>Sharp Decline in Q4 2022 – A Major Sales Anomaly <ul>
             <li>Historically, Q4 (Oct-Dec) has been the strongest quarter due to holiday shopping (Black Friday, Cyber Monday, Christmas sales). However, in 2022, <strong>Q4 sales plummeted</strong>. </li>
-            <li>December 2022 Sales Revenue was $262K (Previous years: $458K–$1.25M). This represents a <strong>~70-80% drop</strong> from Q4 2021 and an even sharper decline compared to Q4 2020. </li>
+            <li>Sales in November 2022 reached a low of $178K, significantly below the $413K–$934K range observed in prior years. This represents a <strong>~57-81% drop</strong> from Q4 2021 and an even sharper decline compared to Q4 2020. </li>
           </ul>
         </li>
         <li>Post-Pandemic Sales Normalization (2020-2022 Trends) <ul>
@@ -112,7 +112,7 @@
         </li>
         <li>Declining Growth Throughout 2022 – Indicating Weak Consumer Demand <ul>
             <li>Each quarter in 2022 experienced a downward trend.</li>
-            <li>Q1: Started fairly strong ($704K in Jan) but lower than 2021.</li>
+            <li>Q1: Started fairly strong ($705K in Jan) but lower than 2021.</li>
             <li>Q2 - Q3: Dropped further, below $500K per month and continued decline through Q3 with Aug/Sep below $400K.</li>
             <li>Q4: <strong>Historic low, indicating critical demand issues</strong>. This suggests customer retention, pricing, or product-market fit issues. TechSphere may need to re-strategize through marketing, promotions, or change in pricing. </li>
           </ul>
