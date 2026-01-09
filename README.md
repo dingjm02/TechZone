@@ -82,13 +82,13 @@
   <tr>
     <h1 align="center">Sales Trend</h1>
     <td width="1000">
-      <img width="300" src="https://i.postimg.cc/jdRVRX3P/Screenshot-2026-01-09-at-15-19-11.png">
+      <img width="300" src="https://i.postimg.cc/gJBXqDSD/Screenshot-2026-01-09-at-16-41-51.png">
     </td>
     <td width="1000">
-      <img width="300" src="https://i.postimg.cc/qRGLw8cH/Screenshot-2026-01-09-at-15-21-34.png">
+      <img width="300" src="https://i.postimg.cc/FFwXdBg4/Screenshot-2026-01-09-at-16-51-30.png">
     </td>
     <td width="1000">
-      <img width="300" src="https://i.postimg.cc/vZjSxLh7/Screenshot-2026-01-09-at-15-19-35.png">
+      <img width="300" src="https://i.postimg.cc/7h261yTb/Screenshot-2026-01-09-at-16-42-14.png">
     </td>
   </tr>
 </table>
@@ -114,7 +114,7 @@
             <li>Each quarter in 2022 experienced a downward trend.</li>
             <li>Q1: Started fairly strong ($705K in Jan) but lower than 2021.</li>
             <li>Q2 - Q3: Dropped further, below $500K per month and continued decline through Q3 with Aug/Sep below $400K.</li>
-            <li>Q4: <strong>Historic low, indicating critical demand issues</strong>. This suggests customer retention, pricing, or product-market fit issues. TechSphere may need to re-strategize through marketing, promotions, or change in pricing. </li>
+            <li>Q4: <strong>Historic low, indicating critical demand issues</strong>. This suggests customer retention, pricing, or product-market fit issues. TechZone may need to re-strategize through marketing, promotions, or change in pricing. </li>
           </ul>
         </li>
       </ol>
@@ -122,7 +122,7 @@
       <ol>
         <li> Sharp AOV Surge in 2020, followed by a Decline in 2021-2022 <ul>
             <li>
-              <strong>2020 saw the highest AOV growth, peaking at $322 (Oct 2020)</strong> compared to $246 (Nov 2019), aligning with pandemic-driven eCommerce boom.
+              <strong>2020 saw the highest AOV growth, peaking at $321 (Oct 2020)</strong> compared to $246 (Nov 2019), aligning with pandemic-driven eCommerce boom.
             </li>
             <li>Post-pandemic correction (2021-2022) led to a steady decline, with AOV in 2022 returning close to 2019 levels (~$234-$237).</li>
           </ul>
@@ -135,7 +135,7 @@
           </ul>
         </li>
         <li>Long-Term AOV Decline May Indicate Price Sensitivity <ul>
-            <li>From a peak of ~$322 in 2020, AOV steadily dropped to ~$234 in 2022 which is 27% drop.</li>
+            <li>From a peak of ~$321 in 2020, AOV steadily dropped to ~$234 in 2022 which is 27% drop.</li>
             <li>Over the span of four years, the change in AOV growth has been relatively constant, indicating minimal changes in product pricing (as illustrated in Sales Growth vs. AOV Growth below).</li>
             <li>AOV in 2022 is likely not a major factor in the decline of sales that year.</li>
           </ul>
