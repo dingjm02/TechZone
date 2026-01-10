@@ -230,7 +230,7 @@
     </td>
     <td width="1000">
       <h3>Number of Orders by Loyalty Status</h3>
-      <img width="450" src="https://i.postimg.cc/d0dN2ckT/Screenshot-2026-01-09-at-13-09-58.png">
+      <img width="450" src="https://i.postimg.cc/0ybx46Y4/Screenshot-2026-01-10-at-22-18-16.png">
     </td>
   </tr>
 </table>
@@ -240,10 +240,9 @@
       <tr>
         <td>
           <ul>
-            <li>Loyalty members have sustained AOV growth beyond the pandemic boom, with sales revenue increasing from $0.4M in 2019 to $2.7M in 2022 and an AOV growth rate of 18% from 2019 to 2022. Loyalty members continued to purchase higher-priced products and place more orders after the pandemic boom, up until August 2022.</li>
-            <li>Non-loyalty members have not sustained sales revenue and AOV growth beyond the pandemic boom, with sales revenue decreasing from $3.4M in 2019 to $2.2M in 2022, along with an AOV decline of 8% during the same period.</li>
-            <li>In 2022, loyalty members spent almost $31 more on average than non-loyalty members ($245 vs. $214). AOV for loyalty members has steadily increased year over year, climbing 1.1% from 2021, while non-loyalty members' AOV declined by 18.7%.</li>
-            <li>Loyalty members outspend non-loyalty members on returning orders by nearly $60, whereas non-loyalty members have historically spent more on their first TechZone orders.</li>
+            <li>Across the four-year period, non-loyalty program orders generally exceeded loyalty program orders in both volume and AOV, except during 2021–2022. This indicates that the loyalty program has not consistently delivered its intended benefits. Greater focus and strategic refinement of the loyalty program may be required to enhance customer retention and long-term value.</li>
+            <li>From 2019 to 2021, loyalty program order volume grew rapidly, while AOV remained persistently lower than that of non-loyalty customers. This behavior suggests a preference among loyalty members for lower-value purchases. Introducing targeted incentives for higher-priced products may help increase basket size and unlock additional value from this customer segment.</li>
+            <li>While the loyalty program demonstrated a relatively stable trend, non-loyalty program sales experienced a sharp increase in 2020 followed by a significant decline in 2021. These fluctuations were the primary drivers of both the overall sales growth and the subsequent downturn during this period.</li>
           </ul>
         </td>
       </tr>
@@ -262,9 +261,9 @@
     <td valign="top" width="500">
       <ul>
         <li>Laptops have the lowest retention rate, with the highest return rate year over year being the ThinkPad Laptop, followed by the MacBook Air Laptop.</li>
-        <li>Coincidentally, these two items have the highest AOV and are TechZone's most expensive products.</li>
+        
         <li>The least returned product is the Bose SoundSport Headphones, with a return rate of 0%, followed by the Samsung Charging Cable Pack, with an average return rate of 2%.</li>
-        <li>However, the Bose SoundSport Headphones are the least frequently purchased product, and the Samsung Charging Cable Pack ranks in the bottom half of purchase orders.</li>
+        <li>However, the Bose SoundSport Headphones and the Samsung Charging Cable Pack ranks are the least frequently purchased product, in the bottom half of purchase orders.</li>
         <li>For 2022, there were no recorded returns for any product.</li>
       </ul>
     </td>
