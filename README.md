@@ -168,8 +168,8 @@
   <tr>
      <h1 align="center">Product Performance</h1>
       <div align="center">
-        <h3>Product Sales Surged in 2020 but were not Sustained at High Levels</h3>
-        <img width="700" alt="Product sales graph from 2019 to 2022" src="https://i.postimg.cc/kDrTHjtz/Screenshot-2026-01-09-at-12-50-51.png" />
+        <h3>Four Key Products Emerged as the Primary Drivers of Overall Sales Changes</h3>
+        <img width="700" alt="Product sales graph from 2019 to 2022" src="https://i.postimg.cc/wvXF7jhf/Screenshot-2026-01-10-at-13-26-22.png" />
       </div>
     <tr>
   </tr>
@@ -181,28 +181,25 @@
       <td width="333" valign="top">
       <h3>The Best and Worst</h3>
       <ul>
-        <li>The 27 Inch 4K Gaming Monitor had consistently strong sales year over year totaling $9,850,744, and it is the highest revenue generating product overall.</li>
-        <li>The second and third best-performing products in terms of sales are the Apple AirPods Headphones ($7,739,617 total) and the MacBook Air Laptop ($6,295,309 total).</li>
-        <li>The Bose SoundSport Headphones ($3,339.04 total) had extremely low sales compared to other products, with no sales recorded in multiple months.</li>
-        <li>Despite being typically a high-demand product, the Apple Iphone is the second lowest sales performer with $213,327 total sales. </li>
-      </ul>
-      </td>
+        <li>The <strong>27 Inch 4K Gaming Monitor</strong> had consistently strong sales year over year totaling <strong>$9.85M</strong>, and it is the highest revenue generating product overall.</li>
+        <li>Other best-performing products in terms of sales are <strong>Apple AirPods Headphones($7.74M)</strong>, <strong>MacBook Air Laptop($6.30M)</strong>, and <strong>Thinkpad Laptop($3.21M)</strong>.</li>
+        <li>Other products accounted for minimal sales shares and had a negligible impact on overall sales.</li>
+        
+      
+      
   <td width="333" valign="top">
       <h3>AOV Over Time</h3>
       <ul>
-        <li>The AOV peaked in 2020 at $300.16 and then declined in 2021 ($254.71) and 2022 ($229.91).</li>
-        <li>MacBook Air Laptop ($1,591), ThinkPad Laptop ($1,101), and Apple Iphone ($741) are the biggest contributors to AOV. </li>
-        <li>Samsung Charging Cable Pack and Samsung Webcam have relatively low price points ($20.20 and $50.43 on average). They are stable but do not significantly impact AOV.</li>
-        <li>AOV is trending downward, but mainly due to a decline of product sales.</li>
+        <li>Overall, the top four products experienced significant price fluctuations over the four-year period, while the remaining products showed only minor price changes. In the earlier analysis of Average Order Value (AOV) across all products, the overall AOV trend appeared relatively stable throughout the same period. This indicates that the weaker-performing products diluted the impact of price changes from the top products, reducing the sensitivity of overall AOV.</li>
+        <li>Relatively, the top three products were more closely associated with key inflection points in sales performance than the ThinkPad Laptop throughout the period. These inflection points include the surge in <strong>Q1 2020</strong>, the sharp decline in <strong>Q1 2021</strong>, and the continued downturn in <strong>Q1 2022</strong>. Among these products, <strong>27-inch gaming monitor</strong> and <strong>Macbook Air Laptop</strong> exhibited the more significant price volatility, with peak prices reaching up to <strong>4-6</strong> times the lowest price observed during the period.</li>
       </ul>
       </td>
       <td width="333" valign="top">
       <h3>Heat Map Findings</h3>
       <ul>
         <li>Consistent Q4 spikes, likely due to Black Friday, Cyber Monday, and the holiday shopping season.</li>
-        <li>Biggest Q4 Performer: The 27-inch 4K Gaming Monitor and Apple AirPods saw the biggest spikes.</li>
-        <li>Sales tend to dip in January and February after the holiday season in Q1.</li>
-        <li>MacBook Air, ThinkPad, and the 27-inch 4K Gaming Monitor maintain consistent demand, as sales through Q2 and Q3 remain relatively stable but lower than in Q4.</li>
+        <li>Biggest Q4 Performer: The <strong>27-inch 4K Gaming Monitor</strong>, <strong>Apple AirPods</strong> saw the biggest spikes.</li>
+        <li>Overall, the green area highlights the best-performing periods. These periods, when analyzed at the product level, leverage further investigation and can provide valuable insights to help suggest future strategies.</li>
       </ul>
       </td>
 </tr>
@@ -210,8 +207,8 @@
 <table align="center">
     <tr align="center">
       <td width="1000" valign="top">
-      <h3>AOV Over Time (2019-2022)</h3>
-      <img width="800" src="https://i.postimg.cc/rybymSTX/Screenshot-2026-01-09-at-13-01-10.png">
+      <h3>AOV Exhibited Significant Fluctuations Among the Top Four Products (2019-2022)</h3>
+      <img width="800" src="https://i.postimg.cc/g2yvVTwz/Screenshot-2026-01-10-at-13-49-08.png">
     </td>
     <td width="1000">
       <h3>Product Sales Heat Map by Quarter</h3>
