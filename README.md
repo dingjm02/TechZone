@@ -190,8 +190,10 @@
   <td width="333" valign="top">
       <h3>AOV Over Time</h3>
       <ul>
-        <li>Overall, the top four products experienced significant price fluctuations over the four-year period, while the remaining products showed only minor price changes. In the earlier analysis of Average Order Value (AOV) across all products, the overall AOV trend appeared relatively stable throughout the same period. This indicates that the weaker-performing products diluted the impact of price changes from the top products, reducing the sensitivity of overall AOV.</li>
-        <li>Relatively, the top three products were more closely associated with key inflection points in sales performance than the ThinkPad Laptop throughout the period. These inflection points include the surge in <strong>Q1 2020</strong>, the sharp decline in <strong>Q1 2021</strong>, and the continued downturn in <strong>Q1 2022</strong>. Among these products, <strong>27-inch gaming monitor</strong> and <strong>Macbook Air Laptop</strong> exhibited the more significant price volatility, with peak prices reaching up to <strong>4-6</strong> times the lowest price observed during the period.</li>
+        <li>The AOV peaked in 2020 at $300.16 and then declined in 2021 ($254.71) and 2022 ($229.91).</li>
+        <li>MacBook Air Laptop ($1,588), ThinkPad Laptop ($1,100), and Apple Iphone ($741) are the biggest contributors to AOV. </li>
+        <li>Samsung Charging Cable Pack and Samsung Webcam have relatively low price points ($20.20 and $50.43 on average). They are stable but do not significantly impact AOV.</li>
+        <li>AOV is trending downward, but mainly due to a decline of product sales.</li>
       </ul>
       </td>
       <td width="333" valign="top">
@@ -208,7 +210,7 @@
     <tr align="center">
       <td width="1000" valign="top">
       <h3>AOV Exhibited Significant Fluctuations Among the Top Four Products (2019-2022)</h3>
-      <img width="800" src="https://i.postimg.cc/g2yvVTwz/Screenshot-2026-01-10-at-13-49-08.png">
+      <img width="800" src="https://i.postimg.cc/RZ6wFyZs/Screenshot-2026-01-11-at-14-56-39.png">
     </td>
     <td width="1000">
       <h3>Product Sales Heat Map by Quarter</h3>
@@ -240,9 +242,10 @@
       <tr>
         <td>
           <ul>
-            <li>Across the four-year period, non-loyalty program orders generally exceeded loyalty program orders in both volume and AOV, except during 2021–2022. This indicates that the loyalty program has not consistently delivered its intended benefits. Greater focus and strategic refinement of the loyalty program may be required to enhance customer retention and long-term value.</li>
-            <li>From 2019 to 2021, loyalty program order volume grew rapidly, while AOV remained persistently lower than that of non-loyalty customers. This behavior suggests a preference among loyalty members for lower-value purchases. Introducing targeted incentives for higher-priced products may help increase basket size and unlock additional value from this customer segment.</li>
-            <li>While the loyalty program demonstrated a relatively stable trend, non-loyalty program sales experienced a sharp increase in 2020 followed by a significant decline in 2021. These fluctuations were the primary drivers of both the overall sales growth and the subsequent downturn during this period.</li>
+            <li>Loyalty members have sustained AOV growth beyond the pandemic boom, with sales revenue increasing from $0.4M in 2019 to $2.7M in 2022 and an AOV growth rate of 18% from 2019 to 2022. Loyalty members continued to purchase higher-priced products and place more orders after the pandemic boom, up until August 2022.</li>
+            <li>Non-loyalty members have not sustained sales revenue and AOV growth beyond the pandemic boom, with sales revenue decreasing from $3.4M in 2019 to $2.2M in 2022, along with an AOV decline of 8% during the same period.</li>
+            <li>In 2022, loyalty members spent almost $31 more on average than non-loyalty members ($245 vs. $214). AOV for loyalty members has steadily increased year over year, climbing 1.1% from 2021, while non-loyalty members' AOV declined by 18.7%.</li>
+            <li>Loyalty members outspend non-loyalty members on returning orders by nearly $60, whereas non-loyalty members have historically spent more on their first TechSphere orders.</li>
           </ul>
         </td>
       </tr>
@@ -320,8 +323,8 @@
           <li>The sharp and anomalous decline in October 2022 (–31% growth rate), which marked the lowest revenue point across the four-year period, should be investigated in greater detail. Further analysis into pricing changes, customer behavior shifts, competitive pressures, or operational disruptions may help identify the root causes of this decline.</li>
           <li>The substantial drops in both sales and order volume during Q4 2022 (–48% and –47%, respectively), as well as the overall downturn in 2022, indicate broader structural challenges beyond seasonality. To reverse this trend, the company should reassess its pricing and promotional strategies, optimize the timing and effectiveness of campaigns, and strengthen customer engagement and retention initiatives.</li>
         <li>historical performance shows that Q3 and Q4 have been strong revenue-generating periods in prior years. Leveraging insights from these high-performing periods can help refine future marketing and sales strategies and support a more sustainable recovery heading into 2023.</li>
-          <ul><li>The average year-over-year sales growth post-pandemic is -28%.</li>
-          <li>The average year-over-year order count growth post-pandemic is -17%.</li></ul>
+          <ul>
+          </ul>
         <h3>Products</h3>
         <li>Optimize inventory for high-performing products year-round.</li>
           <ul><li>The 27-Inch 4K Gaming Monitor is the strongest product in terms of sales, approaching $10 million over four years.</li>
@@ -329,7 +332,7 @@
         <li>Deprioritize inventory for low-performing products.</li>
           <ul><li>Bose SoundSport Headphones and Apple iPhone constitute for nearly 0% of total purchase orders.</li></ul>
         <li>Investigate sales for MacBook Air laptops.</li>
-          <ul><li>MacBook Air Laptops rank third in sales revenue (22%) but fall in the bottom half for number of purchase orders (3.67%).</li></ul>
+          <ul><li>MacBook Air Laptops rank third in sales revenue (22%) but fall in the bottom half for number of purchase orders (4%).</li></ul>
         <h3>Loyalty Program</h3>
         <li>Continue a strong push for the loyalty program to boost and stabilize sales, as loyalty members are more likely to return as customers and purchase high-priced items.</li>
           <ul><li> Loyalty Member AOV grew 18% from 2019 to 2022</li>
@@ -337,7 +340,7 @@
         <li>Offer incentives for loyalty members to target purchases of MacBook Air laptops.</li>
           <ul><li>Loyalty members align with the ideal user persona for MacBook Air laptops, as they purchase high-priced products, are more likely to return as customers, and rarely make returns.</li></ul>
         <h3>Refund Rates</h3>
-        <li>Streamline product quality control for for high AOV products as as they are the most frequently returned products.</li>
+        <li>Streamline product quality control for high AOV products as they are the most frequently returned products.</li>
           <ul><li>Macbook Air Laptops had an average return rate of 14% from 2019 to 2021.</li>
           <li>Thinkpad Laptops also had an average return rate of 14% from 2019 to 2021.</li></ul>
         <h3>Regions</h3>
