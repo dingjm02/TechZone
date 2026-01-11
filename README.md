@@ -75,7 +75,11 @@
     </div>
   </tr>
 </table>
-
+<h2 align="center">Dataset Structure and ERD (Entity relationship diagram)</h2>
+<body>The database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 10,8127 records.</body>
+<div align="center">
+  <img width="680" src="https://i.postimg.cc/MKR0yCm3/Screenshot-2026-01-11-at-23-10-54.png">
+</div>
 
 <h1 align="center">Deep-Dive Insights</h1>
 <table align="center">
