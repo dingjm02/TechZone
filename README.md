@@ -144,7 +144,7 @@
       <strong>Order Count</strong>
       <ol>
         <li>Order counts closely follow sales revenue, indicating that the decline in revenue is primarily due to <strong>fewer orders</strong> rather than a drop in AOV in 2022. </li>
-        <li>Total orders <strong>dropped by 38%</strong> from 2021 to 2022. </li>
+        <li>Total orders <strong>dropped by 40%</strong> from 2021 to 2022. </li>
         <li>The sales anamoly and decline <strong>started in mid-2022</strong>, with orders falling from 2,034 in July to just 825 in October. </li>
         <li>While people are spending slightly less per order, the <strong>decline in order frequency</strong> directly results in lower sales revenue. </li>
       </ol>
@@ -254,7 +254,7 @@
   <tr>
     <td width="500">
        <div valign="top" align="center">
-      <h3>Refund Rate per Product Type</h3>
+      <h3>Refund Rates Were Higher for High-Value Products, Particularly Laptops</h3>
       <img alt="Refund heat map of products" src="https://i.postimg.cc/5y2b75Fz/Screenshot-2026-01-11-at-11-46-37.png" />
     </div>
     </td>
@@ -316,10 +316,10 @@
     <h4>Based on the uncovered insights, here are actionable items that TechZone can take away from our analysis.</h4>
       <ul>
         <h3>Sales</h3>
-        <li>Remedy sales lows due to seasonal fluctuations in January and February by increasing marketing campaigns during these low-sales periods.</li>
-          <ul><li>The average sales growth year-over-year for January is -12%, and for February, it is -23%.</li>
-          <li>Average Sales Growth for Q4 post-pandemic is -17%.</li></ul>
-        <li>Win back lost customers after the pandemic boom by implementing marketing or promotional campaigns for returning customers.</li>
+        <li>The consistent seasonal slowdowns observed in January and February suggest an opportunity to stabilize early-year revenue through increased marketing investment and targeted promotional campaigns during these low-demand periods.</li>
+          <li>The sharp and anomalous decline in October 2022 (–31% growth rate), which marked the lowest revenue point across the four-year period, should be investigated in greater detail. Further analysis into pricing changes, customer behavior shifts, competitive pressures, or operational disruptions may help identify the root causes of this decline.</li>
+          <li>The substantial drops in both sales and order volume during Q4 2022 (–48% and –47%, respectively), as well as the overall downturn in 2022, indicate broader structural challenges beyond seasonality. To reverse this trend, the company should reassess its pricing and promotional strategies, optimize the timing and effectiveness of campaigns, and strengthen customer engagement and retention initiatives.</li>
+        <li>historical performance shows that Q3 and Q4 have been strong revenue-generating periods in prior years. Leveraging insights from these high-performing periods can help refine future marketing and sales strategies and support a more sustainable recovery heading into 2023.</li>
           <ul><li>The average year-over-year sales growth post-pandemic is -28%.</li>
           <li>The average year-over-year order count growth post-pandemic is -17%.</li></ul>
         <h3>Products</h3>
