@@ -255,13 +255,12 @@
     <td width="500">
        <div valign="top" align="center">
       <h3>Refund Rate per Product Type</h3>
-      <img alt="Refund heat map of products" src="https://i.postimg.cc/c1Dh8LkW/Screenshot-2026-01-09-at-13-11-57.png" />
+      <img alt="Refund heat map of products" src="https://i.postimg.cc/5y2b75Fz/Screenshot-2026-01-11-at-11-46-37.png" />
     </div>
     </td>
     <td valign="top" width="500">
       <ul>
         <li>Laptops have the lowest retention rate, with the highest return rate year over year being the ThinkPad Laptop, followed by the MacBook Air Laptop.</li>
-        
         <li>The least returned product is the Bose SoundSport Headphones, with a return rate of 0%, followed by the Samsung Charging Cable Pack, with an average return rate of 2%.</li>
         <li>However, the Bose SoundSport Headphones and the Samsung Charging Cable Pack ranks are the least frequently purchased product, in the bottom half of purchase orders.</li>
         <li>For 2022, there were no recorded returns for any product.</li>
