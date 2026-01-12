@@ -75,6 +75,15 @@
     </div>
   </tr>
 </table>
+
+<li>Targeted SQL queries addressing key business questions can be found <a href="https://github.com/dingjm02/TechZone/blob/main/TechZone.sql">here</a>.</li>
+<li>EDA and detailed visualizations covering sales trends, product performance, and other key metrics can be found here.</li>
+
+
+
+
+
+
 <h2 align="center">Dataset Structure and ERD (Entity relationship diagram)</h2>
 <body>The database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 10,8127 records.</body>
 <div align="center">
